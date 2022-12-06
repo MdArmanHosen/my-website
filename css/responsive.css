@@ -1,0 +1,64 @@
+@media(max-width: 700px){
+    .half-width h1{
+        padding-left: 30px;
+        font-size: 25px;
+        padding-top: 40px;
+        width: 500px;
+}
+.top-banner a {
+    margin-left: 30px;
+}
+
+.top-banner img{
+    padding-left: 100px;
+}
+.half-width h3{
+   padding-left: 30px;
+   font-size: 17px;
+   width: 200%;
+}
+.half-width p{
+    padding-left: 30px;
+    font-size: 20px;
+    width: 220%;
+}
+  .half-width h2{
+    padding-left: 30px;
+    font-size: 30px;
+    width: 200%;
+}
+section{
+    padding-right : 70px;
+}
+.dream-area p{
+    font-size: 16px;
+    padding-right: 100px;
+}
+.dream-area{
+   padding-right: 170px;
+}
+.dream-area a{
+  margin-left: 30px;
+  padding-left: 30px ;
+  display: flex;
+  width: 150px;
+
+}
+
+}
+@media(max-width: 700px){
+    .experience-area .single-experience{
+        padding-right: 70%;
+        margin-top: 30px;
+        }
+        .single-experience h2{
+            font-size: 20px;
+        }
+
+    .single-experience p{
+        font-size: 14px;
+    }
+   .footer{
+    margin-bottom: 50px;
+   }
+}
